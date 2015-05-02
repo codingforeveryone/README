@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/codingforeveryone](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codingforeveryone/WeLoveToLearn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This organisation *Coding for everyone* is for anyone who would like to learn to code and to do so in a collabortive environment.
+This organisation *Coding for everyone* is for anyone who would like to learn to code and to do so in a collaborative environment.
 
 We meet up regularly in the real world in London's East End. You can sign up for our next meetup via [Meetup](http://www.meetup.com/founderscoders/).
 
